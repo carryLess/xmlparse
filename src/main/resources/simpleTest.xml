@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inf>
+    <book id="1">
+        <name>千年一叹</name>
+        <author>余秋雨</author>
+        <year>2000</year>
+        <price>89</price>
+    </book>
+    <book id="2">
+        <name>The Old Man And The Sea</name>
+        <year>1954</year>
+        <author>Hemingway</author>
+        <price>77</price>
+        <language>English</language>
+    </book>
+</inf>
